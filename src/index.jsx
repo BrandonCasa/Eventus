@@ -8,7 +8,7 @@ import "firebase/auth";
 import { FirebaseAuthProvider, FirebaseAuthConsumer, IfFirebaseAuthed, IfFirebaseAuthedAnd } from "@react-firebase/auth";
 
 const firebaseConfig = {
-apiKey: "AIzaSyCRYFrKMQ8RDMZF51yrS2rfJAuxdwjJ3A4",
+  apiKey: "AIzaSyCRYFrKMQ8RDMZF51yrS2rfJAuxdwjJ3A4",
   authDomain: "eventus-2a71a.firebaseapp.com",
   projectId: "eventus-2a71a",
   storageBucket: "eventus-2a71a.appspot.com",
